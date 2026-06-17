@@ -95,3 +95,23 @@ body {
   text-decoration: none;
   margin-bottom: 20px;
 }
+.delete-btn{
+  background-color: red;
+  padding: 8px 16px;
+  border: none;
+  margin-top: 10px;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
+.edit-btn{
+  background-color: green;
+  padding: 8px 16px;
+  border: none;
+  margin-top: 10px;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  margin-left: 10px;
+  text-decoration: none;
+}
